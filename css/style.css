@@ -142,7 +142,7 @@ a{
     z-index: 1;
 }
 
-.shade:hover~.detail{
+.leo:hover~.detail{
     opacity: 1;
     visibility: visible;
     z-index: 99;
